@@ -9,7 +9,7 @@ export default {
       title: 'VuePress',
       head: [
         [
-        'link',{ rel: 'icon', href: '/11.svg' }
+        'link',{ rel: 'icon', href: '/11.png' }
         ],
       ],
       description: 'Vue 驱动的静态网站生成器',
@@ -20,6 +20,6 @@ export default {
     editLink: false,
     lastUpdatedText: '最近更新',
     contributors: false,
-    logo: '/11.svg',
+    logo: '/11.png',
   }),
 }
