@@ -6,9 +6,8 @@ export default defineUserConfig({
   title: '你好， VuePress ！',
   description: '这是我的第一个 VuePress 站点',
   });
-{
    theme: defaultTheme({
     editLink: false,
     lastUpdatedText: '最近更新',
     contributors: false,
-  }),
+  })
