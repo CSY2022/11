@@ -15,4 +15,5 @@ features:
 footer: 本网站及APP由 **陈思源** 及 **一个木函** 提供支持。[点此可下载本站APP](https://csy2022.tk/11.apk)。
 <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=26198573&website=www.oicqzone.com">点此添加我的QQ为好友</a> 
 点此链接加入群聊【时光不老，十一不散】：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0_VXXg4Lpz4sCOMSGO2DGBWZ64ksPVXy&authKey=iV8z8x21UYWNxJc%2Bbu5V4SCEfMiyb0FskXiywJ4nb1%2BJWrX5wtxUNLY%2FKBpN8JcL&noverify=0&group_code=731412047
+footerHtml: true
 ---
