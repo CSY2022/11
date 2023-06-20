@@ -8,7 +8,7 @@ export default defineUserConfig({
 
 import { defaultTheme } from '@vuepress/theme-default'
 
-export default {
+export default1 {
   theme: defaultTheme({
     editLink: false,
     lastUpdatedText: '最近更新',
