@@ -14,7 +14,7 @@ export default {
       title: 'VuePress',
       description: 'Vue 驱动的静态网站生成器',
     },
-  };
+  },
   theme: defaultTheme({
     // 默认主题配置
     navbar: [
