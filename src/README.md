@@ -3,7 +3,7 @@ home: true
 heroImage: 'https://csy2022.tk/11.png'
 actions:
   - text: 朝花夕拾→
-    link: /zh/guide/index.html
+    link: /zh/guide/
     type: primary
 features:
   - title: 回忆我们的往昔
