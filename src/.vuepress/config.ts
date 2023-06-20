@@ -6,13 +6,13 @@ export default {
     // 作为特例，默认语言可以使用 '/' 作为其路径。
     '/': {
       lang: 'zh-CN',
-      title: 'VuePress',
+      title: '时光不老，11不散',
       head: [
         [
-        'link',{ rel: 'icon', href: 'csy2022.tk/11.png' }
+        'link',{ rel: 'icon', href: 'https://csy2022.tk/11.png' }
         ],
       ],
-      description: 'Vue 驱动的静态网站生成器',
+      description: '婺源中学2020级11班',
     },
   },
   theme: defaultTheme({
@@ -20,6 +20,6 @@ export default {
     editLink: false,
     lastUpdatedText: '最近更新',
     contributors: false,
-    logo: 'csy2022.tk/11.png',
+    logo: 'https://csy2022.tk/11.png',
   }),
 }
