@@ -15,6 +15,6 @@ export default {
     editLink: false,
     lastUpdatedText: '最近更新',
     contributors: false,
-    logo: '/11.svg',
+    logo: './11.svg',
   }),
 }
