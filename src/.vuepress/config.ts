@@ -1,7 +1,7 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 
-export default 
+export default {
   defineUserConfig({
   lang: 'zh-CN',
   title: '你好， VuePress ！',
@@ -12,3 +12,4 @@ export default
   lastUpdatedText: '最近更新',
   contributors: false,
   });
+}
