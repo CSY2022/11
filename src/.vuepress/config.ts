@@ -12,11 +12,8 @@ export default {
   },
   theme: defaultTheme({
     // 默认主题配置
-    navbar: [
-      {
-        text: '首页',
-        link: '/',
-      },
-    ],
+    editLink: false,
+    lastUpdatedText: '最近更新',
+    contributors: false,
   }),
 }
