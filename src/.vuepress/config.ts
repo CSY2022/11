@@ -12,4 +12,3 @@ export default defineUserConfig({
     lastUpdatedText: '最近更新',
     contributors: false,
   }),
-}
