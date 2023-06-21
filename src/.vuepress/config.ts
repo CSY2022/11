@@ -1,5 +1,5 @@
 import { defaultTheme } from 'vuepress'
-import { init } from '@waline/client/full';
+import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.js';
 
 import '@waline/client/dist/waline.css';
 
