@@ -1,4 +1,5 @@
 import { defaultTheme } from 'vuepress'
+import { commentPlugin } from "vuepress-plugin-comment2";
 const base = <"/" | `/${string}/`>process.env["BASE"] || "/";
 export default {
   locales: {
@@ -28,12 +29,7 @@ export default {
     contributors: false,
     logo: 'https://csy2022.tk/11.png',
   }),
-}
-import { commentPlugin } from "vuepress-plugin-comment2";
-
-// .vuepress/config.ts
-export default {
-  plugins: [
+    plugins: [
     commentPlugin({
       provider: "Waline", // Artalk | Giscus | Waline | Twikoo
       serverURL: "https://waline.csy2022.tk",
@@ -42,4 +38,6 @@ export default {
       // ...
     }),
   ],
-};
+}
+
+
