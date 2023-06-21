@@ -28,7 +28,7 @@ export default {
     logo: 'https://csy2022.tk/11.png',
   }),
 }
-import { init } from '@waline/client';
+import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
 
 init({
   el: '#waline',
