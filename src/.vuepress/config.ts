@@ -1,5 +1,12 @@
 import { defaultTheme } from 'vuepress'
+import { init } from '@waline/client';
 
+import '@waline/client/dist/waline.css';
+
+init({
+  el: '#waline',
+  // 引入评论插件
+});
 export default {
   locales: {
     // 键名是该语言所属的子路径
