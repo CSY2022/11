@@ -26,7 +26,6 @@ export default {
     commentPlugin({
       provider: "Waline", // Artalk | Giscus | Waline | Twikoo
       serverURL: "https://waline.csy2022.tk",
-      dark: 'auto',
       // 在这里放置其他选项
       // ...
     }),
