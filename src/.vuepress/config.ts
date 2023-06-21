@@ -28,3 +28,11 @@ export default {
     logo: 'https://csy2022.tk/11.png',
   }),
 }
+import { init } from '@waline/client';
+
+import '@waline/client/dist/waline.css';
+
+init({
+  el: '#waline',
+  serverURL: 'https://waline.csy2022.tk',
+});
