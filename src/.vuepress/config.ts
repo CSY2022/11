@@ -1,5 +1,4 @@
 import { defaultTheme } from 'vuepress'
-
 export default {
   locales: {
     // 键名是该语言所属的子路径
@@ -12,10 +11,10 @@ export default {
         'link',{ rel: 'icon', href: 'https://csy2022.tk/11.png' }
         ],
         [
-        "link", { rel: "stylesheet", href: "https://unpkg.com/@waline/client@v2/dist/waline.css" }
+        "link", { rel: 'stylesheet', href: "https://unpkg.com/@waline/client@v2/dist/waline.css" }
         ],
         [
-        link", { rel: "stylesheet", href: "https://unpkg.com/@waline/client@v2/dist/waline-meta.css" }
+        link", { rel: 'stylesheet', href: "https://unpkg.com/@waline/client@v2/dist/waline-meta.css" }
         ],
       ],
       description: '婺源中学2020级11班',
