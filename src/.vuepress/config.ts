@@ -22,14 +22,14 @@ export default {
     contributors: false,
     logo: 'https://csy2022.tk/11.png',
   }),
-    plugins: [
-    commentPlugin({
-      provider: "Waline", // Artalk | Giscus | Waline | Twikoo
-      serverURL: "https://waline.csy2022.tk",
+ //   plugins: [
+//    commentPlugin({
+  //    provider: "Waline", // Artalk | Giscus | Waline | Twikoo
+   //   serverURL: "https://waline.csy2022.tk",
       // 在这里放置其他选项
       // ...
-    }),
-  ],
+   // }),
+ // ],
 }
 
 
