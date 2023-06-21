@@ -1,4 +1,5 @@
 import { defaultTheme } from 'vuepress'
+const base = <"/" | `/${string}/`>process.env["BASE"] || "/";
 export default {
   locales: {
     // 键名是该语言所属的子路径
@@ -28,9 +29,17 @@ export default {
     logo: 'https://csy2022.tk/11.png',
   }),
 }
-import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+import { commentPlugin } from "vuepress-plugin-comment2";
 
-init({
-  el: '#waline',
-  serverURL: 'https://waline.csy2022.tk',
-});
+// .vuepress/config.ts
+export default {
+  plugins: [
+    commentPlugin({
+      provider: "Waline", // Artalk | Giscus | Waline | Twikoo
+      serverURL: "https://waline.csy2022.tk",
+      dark: 'auto',
+      // 在这里放置其他选项
+      // ...
+    }),
+  ],
+};
