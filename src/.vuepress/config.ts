@@ -1,5 +1,5 @@
 import { defaultTheme } from 'vuepress'
-import { commentPlugin } from "vuepress-plugin-comment2";
+// import { commentPlugin } from "vuepress-plugin-comment2";
 export default {
   locales: {
     // 键名是该语言所属的子路径
@@ -17,6 +17,21 @@ export default {
   },
   theme: defaultTheme({
     // 默认主题配置
+    navbar: [
+      // NavbarItem
+      {
+        text: '序言',
+        link: '/guide/index.html',
+      },
+      {
+        text: '11班全体老师名单',
+        link: '/guide/teachers.html',
+      },
+      {
+        text: '11班全体学生名单',
+        link: '/guide/students.html',
+      },
+    ],
     editLink: false,
     lastUpdatedText: '最近更新',
     contributors: false,
