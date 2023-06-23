@@ -1,8 +1,8 @@
----
+=---
 prev:
   text:首页
-  link: https://11busan.csy2022.tk
-next: /guide/teachers.html
+  link: ../index.html
+next: /guide/teachers.md
 ---
 # 序言
 我们伟大的11班 (语出自伟大的彭宇老师) ， 共 9 位老师，63 名同学，在3年里一起耕耘，一起劳动，一起收获，一起成长。

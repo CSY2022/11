@@ -1,5 +1,5 @@
 ---
-prev: /guide/teachers.html
+prev: /guide/teachers.md
 ---
 # 11班全体学生名单
 ###### 注：排名顺序依照名字首字母，不分前后。
