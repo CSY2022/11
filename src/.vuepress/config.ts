@@ -20,16 +20,8 @@ export default {
     navbar: [
       // NavbarItem
       {
-        text: '序言',
-        link: '/guide/index.html',
-      },
-      {
-        text: '11班全体老师名单',
-        link: '/guide/teachers.html',
-      },
-      {
-        text: '11班全体学生名单',
-        link: '/guide/students.html',
+        text: '朝花夕拾',
+        children: ['/guide/index.html', '/guide/teachers.html','students.html'],
       },
     ],
     editLink: false,
