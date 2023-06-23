@@ -21,11 +21,11 @@ export default {
       // NavbarItem
       {
         text: '朝花夕拾',
-        children: ['/guide/index.html', '/guide/teachers.html','/guide/students.html'],
+        children: ['/guide/index.html', '/guide/teachers.html','/guide/students.html','/guide/bairi.html'],
       },
     ],
     editLink: false,
-    lastUpdatedText: '最近更新',
+    lastUpdatedText: '更新日期',
     contributors: false,
     logo: 'https://csy2022.tk/11.png',
   }),
