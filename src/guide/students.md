@@ -1,22 +1,23 @@
 ---
 prev: /guide/teachers.md
+next: /guide/100day.md
 ---
 # 11班全体学生名单
 ###### 注：排名顺序依照名字首字母，不分前后。
 ### 陈
-陈思源 <Badge type="tip" text="站长认证" vertical="top" /> 陈超
+陈思源<Badge type="tip" text="站长认证" vertical="top" /> 陈超
 ### 程
-程梦萍 程睿宏 程诺 程国栋 程樟学
+程梦萍 程睿宏<Badge type="tip" text="生物课代表" vertical="top" /> 程诺 程国栋 程樟学
 ### 董
 董诗怡
 ### 戴
-戴余椿
+戴余椿<Badge type="tip" text="考勤班干部" vertical="top" />
 ### 方
-方小杰 方哲炜
+方小杰 方哲炜<Badge type="tip" text="物理课代表" vertical="top" />
 ### 胡
-胡靖宇 胡杨 胡可欣 胡可 胡夏琳 胡小北
+胡靖宇 胡杨 胡可欣 胡可 胡夏琳<Badge type="tip" text="政治课代表" vertical="top" /> 胡小北
 ### 洪
-洪应冀 洪依欣 洪铖敏
+洪应冀 洪依欣<Badge type="tip" text="语文课代表" vertical="top" /> 洪铖敏
 ### 韩
 韩智星
 ### 江
@@ -32,28 +33,28 @@ prev: /guide/teachers.md
 ### 宋
 宋佳灵
 ### 唐
-唐家奇
+唐家奇<Badge type="tip" text="数学课代表" vertical="top" /><Badge type="tip" text="考勤班干部" vertical="top" />
 ### 汪
 汪锦 汪鹤鹏 汪进涛
 ### 王
-王嘉俊 王嘉诚 王辰 王玄林 王森 王梓涵 王建辉 王梓馨 王嘉诺
+王嘉俊 王嘉诚<Badge type="tip" text="考勤班干部" vertical="top" /> 王辰 王玄林<Badge type="tip" text="化学课代表" vertical="top" /> 王森 王梓涵 王建辉 王梓馨<Badge type="tip" text="考勤班干部" vertical="top" /><Badge type="tip" text="地理课代表" vertical="top" /> 王嘉诺
 ### 夏
 夏凯
 ### 徐
 徐依蕊 徐梦研
 ### 俞
-俞承杞 俞义伟 俞孙荣 俞梓华 俞灵威 俞曼洁
+俞承杞 俞义伟 俞孙荣 俞梓华 俞灵威<Badge type="tip" text="考勤班干部" vertical="top" /> 俞曼洁
 ### 余
-余梓睿
+余梓睿<Badge type="tip" text="班长" vertical="top" /><Badge type="tip" text="历史课代表" vertical="top" />
 ### 郑
 郑晓峰
 ### 詹
-詹阳 詹垚彬 詹家怡
+詹阳 <Badge type="tip" text="考勤班干部" vertical="top" /> 詹垚彬<Badge type="tip" text="陈思源的BEST FRIEND专属VIP认证" vertical="top" /> 詹家怡
 ### 周
 周云飞
 ### 张
 张青农
 ### 朱
-朱蕾 朱佳怡
+朱蕾<Badge type="tip" text="考勤班干部" vertical="top" /><Badge type="tip" text="英语课代表" vertical="top" /> 朱佳怡
 ### 赵
 赵建军
