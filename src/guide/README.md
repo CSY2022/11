@@ -1,7 +1,7 @@
 ---
 prev:
   text:首页
-  link: ../index.html
+  link: /index.html
 next: /guide/teachers.md
 ---
 # 序言
