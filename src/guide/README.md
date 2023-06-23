@@ -1,4 +1,4 @@
-=---
+---
 prev:
   text:首页
   link: ../index.html
