@@ -12,6 +12,6 @@ next: /guide/hechang.md
 
 <a href="https://www.bilibili.com/video/BV1gY411z7Yt/">点击打开B站观看</a>
 
-### 3. 下载
+### 3. 下载<Badge type="tip" text="305MB" vertical="top" />
 
 <a href="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4" download>点击下载</a>
