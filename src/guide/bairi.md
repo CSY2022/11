@@ -2,7 +2,7 @@
 prev: /guide/students.md
 next: /guide/hechang.md
 ---
-# 婺源中学2023届百日誓师大会
+# 百日誓师大会
 
 ### 1. 在线观看
 <br>
