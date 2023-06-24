@@ -6,7 +6,7 @@ next: /guide/hechang.md
 
 ### 1. 在线观看
 <br>
-<iframe src="https://player.bilibili.com/player.html?aid=268315496&bvid=BV1gY411z7Yt&cid=1049791514&page=1&danmaku=0&high_quality=1" width="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=268315496&bvid=BV1gY411z7Yt&cid=1049791514&page=1&danmaku=0&high_quality=1" width="100%" hight="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 
 ### 2. 打开bilibili观看
 
