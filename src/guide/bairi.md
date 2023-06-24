@@ -7,8 +7,5 @@ next: /guide/bairi.md
 <video src="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4" width="100%" controls="controls" preload="auto" poster="https://imgse.com/i/pSLIxAO" type="video/mp4">
 播放错误。
 </video>
-<video ref="video" controls autoplay preload="none" width="100%" ：src="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4">
+<video ref="video" controls autoplay preload="none" width="100%" ：src="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4">播放错误。
  </video>
-<script language=JavaScript>
-location.reload(true)
-</script>
