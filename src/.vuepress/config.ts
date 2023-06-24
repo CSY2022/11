@@ -21,7 +21,7 @@ export default {
       // NavbarItem
       {
         text: '朝花夕拾',
-        children: ['/guide/index.html', '/guide/teachers.html','/guide/students.html','/guide/bairi.html'],
+        children: ['/guide/index.html', '/guide/teachers.html','/guide/students.html','/guide/bairi.html','/guide/hechang.html'],
       },
     ],
     editLink: false,
