@@ -4,13 +4,13 @@ next: /guide/hechang.md
 ---
 # 百日誓师大会
 
-### 1. 在线观看
+### 1. 在线观看<Badge type="warning" text="不推荐" vertical="top" />
+<br><br><br>
+> <iframe src="https://player.bilibili.com/player.html?aid=268315496&bvid=BV1gY411z7Yt&cid=1049791514&page=1&danmaku=0&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts">播放错误</iframe>
 <br>
-<iframe src="https://player.bilibili.com/player.html?aid=268315496&bvid=BV1gY411z7Yt&cid=1049791514&page=1&danmaku=0&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+### 2. 打开bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="记得一键三连" vertical="top" />
 
-### 2. 打开bilibili观看
-
-<a href="https://www.bilibili.com/video/BV1gY411z7Yt/">点击打开B站观看</a>
+<a href="https://www.bilibili.com/video/BV1gY411z7Yt/">点击打开B站观看，三连哦！</a>
 
 ### 3. 下载<Badge type="tip" text="305MB" vertical="top" />
 
