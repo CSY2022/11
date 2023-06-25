@@ -1,6 +1,6 @@
 ---
 prev: /guide/bairi.md
-next: /guide/zhongkao.md
+next: /guide/yulu.md
 ---
 # 合唱(共青团团歌+少年)
 
