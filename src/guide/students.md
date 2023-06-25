@@ -7,7 +7,7 @@ next: /guide/bairi.md
 #### 陈
 陈思源<Badge type="tip" text="站长认证" vertical="top" />&emsp;陈超
 #### 程
-程梦萍 程睿宏<Badge type="tip" text="生物课代表" vertical="top" />&emsp;程诺<Badge type="tip" text="像垃圾的检查员" vertical="top" /> 程国栋 程樟学
+程梦萍 程睿宏<Badge type="tip" text="生物课代表" vertical="top" />&emsp;程诺 程国栋 程樟学
 #### 董
 董诗怡
 #### 戴
@@ -35,7 +35,7 @@ next: /guide/bairi.md
 #### 唐
 唐家奇<Badge type="tip" text="数学课代表" vertical="top" /><Badge type="tip" text="考勤班干部" vertical="top" />
 #### 汪
-汪锦 汪鹤鹏 汪进涛
+汪锦 汪鹤鹏 汪进涛<Badge type="tip" text="垃圾检查员" vertical="top" />
 #### 王
 王嘉俊 王嘉诚<Badge type="tip" text="考勤班干部" vertical="top" />&emsp;王辰 王玄林<Badge type="tip" text="化学课代表" vertical="top" />&emsp;王森 王梓涵 王建辉 王梓馨<Badge type="tip" text="考勤班干部" vertical="top" /><Badge type="tip" text="地理课代表" vertical="top" />&emsp;王嘉诺
 #### 夏
@@ -49,7 +49,7 @@ next: /guide/bairi.md
 #### 郑
 郑晓锋
 #### 詹
-詹阳<Badge type="tip" text="考勤班干部" vertical="top" />&emsp;詹垚彬<Badge type="tip" text="陈思源BEST FRIEND认证" vertical="top" />&emsp;詹家怡
+詹阳<Badge type="tip" text="考勤班干部" vertical="top" />&emsp;詹垚彬<Badge type="tip" text="陈思源BEST FRIEND认证" vertical="top" />&emsp;詹佳怡
 #### 周
 周云飞
 #### 张
