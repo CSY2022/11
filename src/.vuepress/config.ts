@@ -39,8 +39,3 @@ export default {
   ],
   ]
 }
-import Sodesu from 'sodesu';
-Sodesu.init({
-  el: '#sodesu',
-  serverURL: 'https://waline.csy2022.tk',
-});
