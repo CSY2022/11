@@ -32,14 +32,13 @@ export default {
     logo: 'https://csy2022.tk/11.png',
   }),
   plugins: [
-    '@vuepress/plugin-register-components',
+   ['@vuepress/plugin-register-components',
     {
       componentsDir: path.resolve(__dirname, './components'),
     }
   ],
-  plugins: [
-    [
-      'vuepress-plugin-comment-plus',
+  [
+     'vuepress-plugin-comment-plus',
       {
 	     choosen: 'waline', 
          // options选项中的所有参数，会传给Waline的配置
@@ -49,7 +48,7 @@ export default {
 	       path: '<%- frontmatter.commentid || frontmatter.permalink %>'
          }
       }
-    ]
+    ],
   ]
 }
 
