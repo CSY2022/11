@@ -7,7 +7,7 @@ next: /guide/bairi.md
 #### 陈
 陈思源<Badge type="tip" text="站长认证" vertical="top" />&emsp;陈超
 #### 程
-程梦萍 程睿宏<Badge type="tip" text="生物课代表" vertical="top" />&emsp;程诺 程国栋 程樟学
+程梦萍 程睿宏<Badge type="tip" text="生物课代表" vertical="top" />&emsp;程诺<Badge type="tip" text="像垃圾的检查员" vertical="top" /> 程国栋 程樟学
 #### 董
 董诗怡
 #### 戴
