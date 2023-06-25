@@ -37,5 +37,19 @@ export default {
       componentsDir: path.resolve(__dirname, './components'),
     }
   ],
+  plugins: [
+    [
+      'vuepress-plugin-comment-plus',
+      {
+	     choosen: 'waline', 
+         // options选项中的所有参数，会传给Waline的配置
+         options: {
+           el: '#valine-vuepress-comment',
+           serverURL: 'https://waline.csy2022.tk', //  例如 "https://***.vercel.app/"
+	       path: '<%- frontmatter.commentid || frontmatter.permalink %>'
+         }
+      }
+    ]
+  ]
 }
 
