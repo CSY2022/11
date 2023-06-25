@@ -12,7 +12,4 @@ next: /guide/teachers.md
 Tips: 
 - 点击左上角的 **≡** ，可以打开目录或切换文章哦。
 - 鄙人才疏学浅，行文若有不妥之处，欢迎斧正。
-<link
-    rel="stylesheet"
-    href="https://unpkg.com/@waline/client@v2/dist/waline.css"/>
-<div id="waline"></div>
+<waline />

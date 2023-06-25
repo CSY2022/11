@@ -9,7 +9,6 @@ export default {
       head: [
         [
         'link',{ rel: 'icon', href: 'https://csy2022.tk/11.png' }
-        'script',{ src: 'https://unpkg.com/@waline/client@v2/dist/waline.mjs'}
         ],
       ],
       description: '婺源中学2020级11班',
@@ -29,11 +28,13 @@ export default {
     contributors: false,
     logo: 'https://csy2022.tk/11.png',
   }),
+  plugins: [
+    [
+      '@vuepress/plugin-register-components',
+      {
+        componentsDir: path.resolve(__dirname, './components')
+      }
+    ],
+  ]
 }
-import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
-
-init({
-      el: '#waline',
-      serverURL: 'https://waline.csy2022.tk',
-    });
 
