@@ -1,6 +1,6 @@
 ---
 prev: /guide/bairi.md
-next: /guide/yulu.md
+next: /guide/teachersaying.md
 ---
 # 合唱(共青团团歌+少年)
 
