@@ -9,6 +9,7 @@ export default {
       head: [
         [
         'link',{ rel: 'icon', href: 'https://csy2022.tk/11.png' }
+        'script',{ src: 'https://unpkg.com/@waline/client@v2/dist/waline.mjs'}
         ],
       ],
       description: '婺源中学2020级11班',
