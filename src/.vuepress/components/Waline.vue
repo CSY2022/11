@@ -10,5 +10,5 @@ import 'https://unpkg.com/@waline/client@v2/dist/waline.css';
 
 const serverURL = 'https://waline.csy2022.tk';
 const path = computed(() => useRoute().path);
-const dark = 'auto'
+const dark = 'auto';
 </script>
