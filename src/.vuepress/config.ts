@@ -19,8 +19,7 @@ export default {
     navbar: [
       // NavbarItem
       {
-        text: '朝花夕拾',
-        children: ['/guide/README.md', '/guide/teachers.md','/guide/students.md','/guide/bairi.md','/guide/hechang.md','/guide/teachersaying.md','/guide/formorethings.md'],
+        '/guide/README.md', '/guide/teachers.md', '/guide/students.md', '/guide/bairi.md', '/guide/hechang.md', '/guide/teachersaying.md', '/guide/formorethings.md',
       },
     ],
     editLink: false,
