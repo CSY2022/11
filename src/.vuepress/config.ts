@@ -1,5 +1,4 @@
 import { defaultTheme } from 'vuepress'
-import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { getDirname, path } from '@vuepress/utils'
 
 const __dirname = getDirname(import.meta.url)
@@ -33,9 +32,10 @@ export default {
     logo: 'https://csy2022.tk/11.png',
   }),
   plugins: [
-    registerComponentsPlugin({
+    '@vuepress/plugin-register-components',
+    {
       componentsDir: path.resolve(__dirname, './components'),
-    }),
+    }
   ],
 }
 
