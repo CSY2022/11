@@ -6,9 +6,13 @@ next: /guide/teachers.md
 
 "天下没有不散的宴席"。毕业、就像一个大大的句号。从此，我们告别了一段纯真的青春，一段年少轻狂的岁月，一个充满幻想的时代。
 
-朝花夕拾，自是一番韵味~
+朝花夕拾，自是一番韵味
 
 
 Tips: 
 - 点击左上角的 **≡** ，可以打开目录或切换文章哦。
 - 鄙人才疏学浅，行文若有不妥之处，欢迎斧正。
+<link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v2/dist/waline.css"/>
+<div id="waline"></div>
