@@ -27,7 +27,7 @@ next: /guide/bairi.md
 #### 马
 马桢宁 马子轩
 #### 潘
-潘苏华 潘昊
+潘苏华 潘昊<Badge type="tip" text="被遗忘的劳动委员" vertical="top" />
 #### 石
 石奇伟
 #### 宋
@@ -47,7 +47,7 @@ next: /guide/bairi.md
 #### 余
 余梓睿<Badge type="tip" text="班长" vertical="top" /><Badge type="tip" text="历史课代表" vertical="top" /><Badge type="tip" text="陈思源BEST FRIEND认证" vertical="top" />
 #### 郑
-郑晓峰
+郑晓锋
 #### 詹
 詹阳<Badge type="tip" text="考勤班干部" vertical="top" />&emsp;詹垚彬<Badge type="tip" text="陈思源BEST FRIEND认证" vertical="top" />&emsp;詹家怡
 #### 周
