@@ -1,5 +1,5 @@
 <template>
-  <Waline :serverURL="https://waline.csy2022.tk" :path="window.location.pathname.replace(/\/$/,'')" />
+  <Waline :serverURL="https://waline.csy2022.tk" :path="path" />
 </template>
 <script setup>
 import { Waline } from 'https://unpkg.com/@waline/client@v2/component';
