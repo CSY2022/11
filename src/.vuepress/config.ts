@@ -35,7 +35,7 @@ export default {
     '@vuepress/plugin-register-components',
     {
       componentsDir: path.resolve(__dirname, './components'),
-    }
+    }>
   ],
 }
 
