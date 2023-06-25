@@ -29,14 +29,5 @@ export default {
     logo: 'https://csy2022.tk/11.png',
   }),
 }
-const defaultOptions = {
-  level: [1, 2, 3, 4, 5, 6],
-  permalink: anchorPlugin.permalink.ariaHidden({
-    class: 'header-anchor',
-    symbol: '',
-    space: false,
-    placement: 'before',
-  }),
-}
 
 
