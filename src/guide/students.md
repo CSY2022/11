@@ -17,7 +17,7 @@ next: /guide/bairi.md
 #### 胡
 胡靖宇 胡杨 胡可欣 胡可 胡夏琳<Badge type="tip" text="政治课代表" vertical="top" />&emsp;胡小北
 #### 洪
-洪应冀 洪依欣<Badge type="tip" text="语文课代表" vertical="top" />&emsp;洪铖敏
+洪应冀<Badge type="tip" text="体育课代表" vertical="top" /> 洪依欣<Badge type="tip" text="语文课代表" vertical="top" />&emsp;洪铖敏
 #### 韩
 韩智星
 #### 江
@@ -43,7 +43,7 @@ next: /guide/bairi.md
 #### 徐
 徐依蕊 徐梦研
 #### 俞
-俞承杞 俞义伟 俞孙荣 俞梓华 俞灵威<Badge type="tip" text="考勤班干部" vertical="top" />&emsp;俞曼洁
+俞承杞 俞义伟 俞孙荣<Badge type="tip" text="劳动委员" vertical="top" /><Badge type="tip" text="美术课代表" vertical="top" /> 俞梓华 俞灵威<Badge type="tip" text="考勤班干部" vertical="top" />&emsp;俞曼洁
 #### 余
 余梓睿<Badge type="tip" text="班长" vertical="top" /><Badge type="tip" text="历史课代表" vertical="top" /><Badge type="tip" text="陈思源BEST FRIEND认证" vertical="top" />
 #### 郑

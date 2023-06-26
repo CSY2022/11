@@ -6,7 +6,7 @@ next: /guide/teachersaying.md
 
 1. 在线观看<Badge type="warning" text="不推荐" vertical="top" />
 <br>
-<iframe src="https://player.bilibili.com/player.html?aid=955239828&bvid=BV1CW4y1D7ic&cid=1174560634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">播放错误</iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=955239828&bvid=BV1CW4y1D7ic&cid=1174560634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false">播放错误</iframe>
 <br>
 
 2. 打开bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="记得一键三连" vertical="top" />
