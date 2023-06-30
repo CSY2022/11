@@ -3,7 +3,7 @@ prev: /guide/teachers.md
 next: /guide/bairi.md
 ---
 # 11班全体学生名单
-<font size=2>注：排名顺序依照名字首字母，不分前后。</font>
+<div style="font-size: 80%;">注：排名顺序依照名字首字母，不分前后。</div>
 #### 陈
 陈思源<Badge type="tip" text="站长认证" vertical="top" />&emsp;陈超
 #### 程

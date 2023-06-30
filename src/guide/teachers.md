@@ -3,7 +3,7 @@ prev: /guide/index.html
 next: /guide/students.md
 ---
 # 11班全体老师名单
-<font size=2>注：排名顺序依照名字首字母，不分前后。</font>
+<div style="font-size: 80%;">注：排名顺序依照名字首字母，不分前后。</div>
 - ### 语文<br>
 **王起德老师**
 电话:18970340197
