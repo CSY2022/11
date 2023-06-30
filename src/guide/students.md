@@ -15,7 +15,7 @@ next: /guide/bairi.md
 #### 方
 方小杰 方哲炜<Badge type="tip" text="物理课代表" vertical="top" />
 #### 胡
-胡靖宇 胡杨 胡可欣 胡可 胡夏琳<Badge type="tip" text="政治课代表" vertical="top" />&emsp;胡小北
+胡靖宇 胡杨 胡可欣 胡可 胡夏琳<Badge type="tip" text="政治课代表" vertical="top" /><Badge type="tip" text="生活委员" vertical="top" />&emsp;胡小北
 #### 洪
 洪应冀<Badge type="tip" text="体育课代表" vertical="top" /> 洪依欣<Badge type="tip" text="语文课代表" vertical="top" />&emsp;洪铖敏
 #### 韩
@@ -27,7 +27,7 @@ next: /guide/bairi.md
 #### 马
 马桢宁 马子轩
 #### 潘
-潘苏华 潘昊<Badge type="tip" text="被遗忘的劳动委员" vertical="top" />
+潘苏华 潘昊<Badge type="tip" text="劳动委员" vertical="top" />
 #### 石
 石奇伟
 #### 宋
