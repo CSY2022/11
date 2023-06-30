@@ -2,7 +2,7 @@
 prev: /guide/bairi.md
 next: /guide/teachersaying.md
 ---
-# 合唱(共青团团歌+少年)
+# 合唱 (团歌+少年)
 
 1. 打开bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="记得一键三连" vertical="top" />
 
