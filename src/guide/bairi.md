@@ -4,9 +4,11 @@ next: /guide/hechang.md
 ---
 # 百日誓师大会
 
-1. 打开bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="记得一键三连" vertical="top" />
+1. 打开bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="一键三连" vertical="top" />
 
-<a href="https://www.bilibili.com/video/BV1gY411z7Yt/">点击打开B站观看，三连哦！</a>
+
+<iframe src="https://api.paugram.com/bili?bv=1gY411z7Yt&style=gray" style="height: 100%; width: 100%"></iframe>
+
 
 2. 下载<Badge type="tip" text="302.26MB" vertical="top" />
 
