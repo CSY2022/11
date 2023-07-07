@@ -7,7 +7,7 @@ next: /guide/hechang.md
 1. 打开bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="一键三连" vertical="top" />
 
 
-<iframe src="https://api.paugram.com/bili?bv=1gY411z7Yt&style=gray" style="height: 100%; width: 100%"></iframe>
+<iframe src="https://api.paugram.com/bili?bv=1gY411z7Yt&style=gray" style="height: 100%; width: 100%" border=0 frameborder=0></iframe>
 
 
 2. 下载<Badge type="tip" text="302.26MB" vertical="top" />
