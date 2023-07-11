@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: 'https://csy2022.tk/11.png'
+heroImage: '/11.png'
 actions:
   - text: 朝花夕拾→
     link: /guide/

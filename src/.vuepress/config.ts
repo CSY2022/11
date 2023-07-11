@@ -11,7 +11,7 @@ export default {
       title: '时光不老，11不散',
       head: [
         [
-        'link',{ rel: 'icon', href: 'https://csy2022.tk/11.png' }
+        'link',{ rel: 'icon', href: '/11.png' }
         ],
       ],
       description: '婺源中学2020级11班',
@@ -29,7 +29,7 @@ export default {
     editLink: false,
     lastUpdatedText: '更新日期',
     contributors: false,
-    logo: 'https://csy2022.tk/11.png',
+    logo: '/11.png',
   }),
   plugins: [
    ['@vuepress/plugin-register-components',
