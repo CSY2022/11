@@ -1,7 +1,5 @@
 import { defaultTheme } from 'vuepress'
-import { getDirname, path } from '@vuepress/utils'
 
-const __dirname = getDirname(import.meta.url)
 export default {
   locales: {
     // 键名是该语言所属的子路径
@@ -31,11 +29,4 @@ export default {
     contributors: false,
     logo: '/11.png',
   }),
-  plugins: [
-   ['@vuepress/plugin-register-components',
-    {
-      componentsDir: path.resolve(__dirname, './components'),
-    }
-  ],
-  ]
 }
