@@ -25,7 +25,7 @@ export default {
         },
         {
         text: '留言墙',
-        link: '/comments.html',
+        link: 'https://11busan.csy2022.tk/comments.html',
       },
     ],
     editLink: false,
