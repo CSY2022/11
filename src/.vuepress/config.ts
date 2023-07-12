@@ -22,8 +22,10 @@ export default {
       {
         text: '朝花夕拾',
         children: ['/guide/README.md', '/guide/teachers.md', '/guide/students.md', '/guide/bairi.md', '/guide/hechang.md', '/guide/teachersaying.md', '/guide/formorethings.md'],
+        },
+        {
         text: '留言墙',
-        link: '/guide/comments.html',
+        link: '/comments.html',
       },
     ],
     editLink: false,
