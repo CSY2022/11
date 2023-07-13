@@ -52,16 +52,7 @@
  <div id="waline"></div>
  <script type="module">
     import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
-
-    init({
-      el: '#waline',
-      serverURL: 'https://comments.csy2022.tk',
-      search: false,
-      reaction: true, 
-      comment: true,
-      pageview: true,
-      lang: "zh-CN",
-      const locale = {
+    const locale = {
       nick: '昵称（填写QQ号有惊喜）',
       mail: '邮箱（可不填）',
       link: '网址（可不填）',
@@ -73,6 +64,15 @@
       submit: '留言',
       login: '登录（留言不用登录）',
       };
+    init({
+      el: '#waline',
+      serverURL: 'https://comments.csy2022.tk',
+      search: false,
+      reaction: true, 
+      comment: true,
+      pageview: true,
+      lang: "zh-CN",
+      locale,
       emoji: [
       'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
       'https://unpkg.com/@waline/emojis@1.1.0/qq',
