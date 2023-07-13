@@ -29,6 +29,10 @@
     rel="stylesheet"
     href="https://unpkg.com/@waline/client@v2/dist/waline.css"
   />
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/@waline/client@v2/dist/waline-meta.css"
+/>
 </head>
 <body>
   <br>
@@ -48,7 +52,16 @@
 
     init({
       el: '#waline',
+      reaction: true, 
+      comment: true,
+      pageview: true,
+      lang="zh-CN",
       serverURL: 'https://comments.csy2022.tk',
+      emoji: [
+      https://unpkg.com/@waline/emojis@1.1.0/bilibili
+      https://unpkg.com/@waline/emojis@1.1.0/qq
+      ],
+      search: false,
     });
  </script>
 </body>

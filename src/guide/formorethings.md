@@ -1,7 +1,7 @@
 ---
 prev: /guide/teachersaying.md
 next:
- text: 留言栏
+ text: 留言板
  link: /comments.html
 lang: zh-CN
 title: 更多
