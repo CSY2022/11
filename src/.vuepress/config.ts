@@ -24,7 +24,7 @@ export default {
         children: ['/guide/README.md', '/guide/teachers.md', '/guide/students.md', '/guide/bairi.md', '/guide/hechang.md', '/guide/teachersaying.md', '/guide/formorethings.md'],
         },
         {
-        text: '留言墙',
+        text: '留言板',
         link: 'https://11busan.csy2022.tk/comments.html',
       },
     ],
