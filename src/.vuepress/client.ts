@@ -1,10 +1,6 @@
-import { defineClientConfig } from '@vuepress/client'
 import { init } from '@waline/client';
 import '@waline/client/dist/waline.css';
 import '@waline/client/dist/waline-meta.css';
-
-export default defineClientConfig({
-});
 init({
       el: '#waline',
       serverURL: 'https://comments.csy2022.tk',
