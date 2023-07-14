@@ -36,7 +36,7 @@ export default {
     lastUpdatedText: '更新日期',
     contributors: false,
     logo: '/11.png',
-      const locale = {
+      const locale : {
       nick: '昵称（填写QQ号有惊喜）',
       mail: '邮箱（可不填）',
       link: '网址（可不填）',
