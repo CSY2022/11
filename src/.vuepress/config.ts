@@ -37,7 +37,6 @@ export default {
     contributors: false,
     logo: '/11.png',
     init({
-      el: '#waline',
       serverURL: 'https://comments.csy2022.tk',
       search: false,
       reaction: true, 
