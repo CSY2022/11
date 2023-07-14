@@ -1,6 +1,5 @@
 import { defaultTheme } from 'vuepress';
 import { init } from '@waline/client';
-import '@waline/client/dist/waline.css';
 export default {
   locales: {
     // 键名是该语言所属的子路径
