@@ -1,5 +1,5 @@
 import { defaultTheme } from 'vuepress';
-import { init } from '@waline/client';
+
 export default {
   locales: {
     // 键名是该语言所属的子路径
@@ -13,6 +13,9 @@ export default {
         ],
         [
         'link',{ rel: 'stylesheet', href: 'https://unpkg.com/@waline/client@v2/dist/waline.css'}
+        ],
+        [
+        'link',{ rel: 'stylesheet', href: 'https://unpkg.com/@waline/client@v2/dist/waline-meta.css'}
         ],
         ],
       description: '婺源中学2020级11班',
@@ -37,28 +40,4 @@ export default {
     logo: '/11.png',
   }),
 }
-   init({
-      el: '#waline',
-      serverURL: 'https://comments.csy2022.tk',
-      search: false,
-      reaction: true, 
-      comment: true,
-      pageview: true,
-      lang: "zh-CN",
-      emoji: [
-      'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
-      'https://unpkg.com/@waline/emojis@1.1.0/qq',
-      ],
-      locale: {
-      nick: '昵称（填写QQ号有惊喜）',
-      mail: '邮箱（可不填）',
-      link: '网址（可不填）',
-      admin: '站长',
-      reactionTitle: '描述一下你的心情:',
-      comment: '留言',
-      placeholder: '以手写心，畅所欲言。',
-      sofa: '来留言吧~',
-      submit: '留言',
-      login: '登录（发留言不用登录）',
-    },
-}); 
+   
