@@ -11,12 +11,6 @@ export default {
         [
         'link',{ rel: 'icon', href: '/11.png' }
         ],
-        [
-        'link',{ rel: 'stylesheet', href: 'https://unpkg.com/@waline/client@v2/dist/waline.css'}
-        ],
-        [
-        'link',{ rel: 'stylesheet', href: 'https://unpkg.com/@waline/client@v2/dist/waline-meta.css'}
-        ],
         ],
       description: '婺源中学2020级11班',
     },
