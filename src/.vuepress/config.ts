@@ -46,7 +46,6 @@ export default {
       comment: true,
       pageview: true,
       lang: "zh-CN",
-      locale,
       emoji: [
       'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
       'https://unpkg.com/@waline/emojis@1.1.0/qq',
