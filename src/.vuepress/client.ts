@@ -1,5 +1,5 @@
 import { defineClientConfig } from '@vuepress/client'
-import { init } from '@waline/client';
+import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
 import '@waline/client/dist/waline.css';
 import '@waline/client/dist/waline-meta.css';
 
