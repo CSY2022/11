@@ -5,7 +5,15 @@ export default {
 plugins: [
     commentPlugin({
       provider: "Waline", 
-      }),
+      comment: true,
+      serverURL: 'https://comments.csy2022.tk',
+      dark: 'auto',
+      meta: ['nick'],
+      emoji: [
+      'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
+      'https://unpkg.com/@waline/emojis@1.1.0/qq',
+      ],
+  }),
   ],
   locales: {
     // 键名是该语言所属的子路径
