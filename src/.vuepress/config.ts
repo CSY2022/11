@@ -19,24 +19,8 @@ export default {
       description: '婺源中学2020级11班',
     },
   },
-  theme: defaultTheme({
-    // 默认主题配置
-    navbar: [
-      // NavbarItem
-      {
-        text: '朝花夕拾',
-        children: ['/guide/README.md', '/guide/teachers.md', '/guide/students.md', '/guide/bairi.md', '/guide/hechang.md', '/guide/teachersaying.md', '/guide/formorethings.md'],
-        },
-        {
-        text: '留言板',
-        link: 'https://11busan.csy2022.tk/comments.html',
-      },
-    ],
-    editLink: false,
-    lastUpdatedText: '更新日期',
-    contributors: false,
-    logo: '/11.png',
-    init({
+   init({
+      el: '#waline',
       serverURL: 'https://comments.csy2022.tk',
       search: false,
       reaction: true, 
@@ -60,6 +44,24 @@ export default {
       submit: '留言',
       login: '登录（发留言不用登录）',
     },
-});
+}); 
+  theme: defaultTheme({
+    // 默认主题配置
+    navbar: [
+      // NavbarItem
+      {
+        text: '朝花夕拾',
+        children: ['/guide/README.md', '/guide/teachers.md', '/guide/students.md', '/guide/bairi.md', '/guide/hechang.md', '/guide/teachersaying.md', '/guide/formorethings.md'],
+        },
+        {
+        text: '留言板',
+        link: 'https://11busan.csy2022.tk/comments.html',
+      },
+    ],
+    editLink: false,
+    lastUpdatedText: '更新日期',
+    contributors: false,
+    logo: '/11.png',
+
   }),
 }
