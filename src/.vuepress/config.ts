@@ -36,18 +36,6 @@ export default {
     lastUpdatedText: '更新日期',
     contributors: false,
     logo: '/11.png',
-    export const locale = {
-      nick: '昵称（填写QQ号有惊喜）',
-      mail: '邮箱（可不填）',
-      link: '网址（可不填）',
-      admin: '站长',
-      reactionTitle: '描述一下你的心情:',
-      comment: '留言',
-      placeholder: '以手写心，畅所欲言。',
-      sofa: '来留言吧~',
-      submit: '留言',
-      login: '登录（发留言不用登录）',
-    };
     init({
   el: '#waline',
   serverURL: 'https://comments.csy2022.tk',
@@ -60,8 +48,19 @@ export default {
       emoji: [
       'https://unpkg.com/@waline/emojis@1.1.0/bilibili',
       'https://unpkg.com/@waline/emojis@1.1.0/qq',
-    ],
-   
+      ],
+      locale: {
+      nick: '昵称（填写QQ号有惊喜）',
+      mail: '邮箱（可不填）',
+      link: '网址（可不填）',
+      admin: '站长',
+      reactionTitle: '描述一下你的心情:',
+      comment: '留言',
+      placeholder: '以手写心，畅所欲言。',
+      sofa: '来留言吧~',
+      submit: '留言',
+      login: '登录（发留言不用登录）',
+    },
 });
   }),
 }
