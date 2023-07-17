@@ -6,7 +6,7 @@ next: /guide/hechang.md
 
 1. 打开bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="一键三连" vertical="top" />
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1gY411z7Yt&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" framespacing="0"> </iframe>
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1gY411z7Yt&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" framespacing="0"></iframe>
 
 2. 下载<Badge type="tip" text="302.26MB" vertical="top" />
 
