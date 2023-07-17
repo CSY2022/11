@@ -7,7 +7,7 @@ next: /guide/teachersaying.md
 1. 打开bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="一键三连" vertical="top" />
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="https://api.paugram.com/bili?bv=BV1CW4y1D7ic&style=gray" style="height: 100%; width: 100%" border=0 frameborder=0></iframe>
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1CW4y1D7ic&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" framespacing="0"> </iframe>
 </div>
 
 2. 下载<Badge type="tip" text="343.69MB" vertical="top" />
