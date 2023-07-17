@@ -6,7 +6,7 @@ actions:
     link: /guide/
     type: primary
   - text: 留言板
-    link: /comments.html
+    link: https://11busan.csy2022.tk/comments.html
     type: secondary
 features:
   - title: 回忆我们的往昔
