@@ -6,7 +6,7 @@ next: /guide/hechang.md
 
 1. 通过bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="一键三连" vertical="top" />
  
-<a href=" ">点击打开bilibili</a>
+<a href="https://m.bilibili.com/video/BV1gY411z7Yt">点击打开bilibili</a>
 
 2. 在线观看
 
