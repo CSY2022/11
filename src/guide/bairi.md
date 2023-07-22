@@ -10,7 +10,7 @@ next: /guide/hechang.md
 
 2. 在线观看
 
-<iframe src="https://player.bilibili.com/player. html?aid=268315496&bvid=BV1gY411z7Yt&cid=1049791514&page=1&high_quality=1"  scrolling="no" border="0" frameborder="no" allow="fullscreen"></iframe> 
+<iframe src="https://player.bilibili.com/player. html?aid=268315496&bvid=BV1gY411z7Yt&cid=1049791514&page=1"  scrolling="no" border="0" frameborder="no" allow="fullscreen"></iframe> 
 
 3. 下载<Badge type="tip" text="302.26MB" vertical="top" />
 
