@@ -6,8 +6,8 @@ next: /guide/hechang.md
 
 ### 1. 通过bilibili观看<Badge type="tip" text="推荐" vertical="top" /><Badge type="tip" text="一键三连" vertical="top" />
  
-[![bilibili](https://11busan.csy2022.tk/bilibili.png "点击打开bilibili")](https://m.bilibili.com/video/BV1gY411z7Yt)
+<a href="https://m.bilibili.com/video/BV1gY411z7Yt" target="_blank"><img src="https://11busan.csy2022.tk/bilibili.png" /></a>
 
 ### 2. 下载<Badge type="tip" text="302.26MB" vertical="top" /><Badge type="tip" text="点开后点击右下角 ⋮ ，选择下载选项手动下载" vertical="top" />
 
-<a href="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4" download="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4" type="application/octet-stream"><img src="https://11busan.csy2022.tk/download.png" /></a>
+<a href="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4" download="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4" target="_blank"><img src="https://11busan.csy2022.tk/download.png" /></a>
