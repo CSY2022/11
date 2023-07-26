@@ -10,4 +10,4 @@ next: /guide/hechang.md
 
 ### 2. 下载<Badge type="tip" text="302.26MB" vertical="top" />
 
-<a href="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4" download="百日誓师大会.mp4" ><img src="https://11busan.csy2022.tk/download.png" /></a>
+<a href="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4" download="百日誓师大会.mp4" target="_blank" ><img src="https://11busan.csy2022.tk/download.png" /></a>
