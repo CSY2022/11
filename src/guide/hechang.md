@@ -10,4 +10,4 @@ next: /guide/teachersaying.md
 
 ### 2. 下载<Badge type="tip" text="343.69MB" vertical="top" />
 
-<a href="https://download.kstore.space/download/4366/studio_video_1687652774767.mp4"  download="合唱.mp4" target="_blank" > <img src="https://11busan.csy2022.tk/download.png" /> </a>
+<a href="https://d.kstore.space/download/4366/%E5%90%88%E5%94%B1" download="合唱.mp4" target="_blank" > <img src="https://11busan.csy2022.tk/download.png" /> </a>
