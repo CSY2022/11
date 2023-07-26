@@ -10,4 +10,4 @@ next: /guide/hechang.md
 
 ### 2. 下载<Badge type="tip" text="302.26MB" vertical="top" />
 
-[![下载](https://11busan.csy2022.tk/download.png "点击下载保存到本地")](https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4)
+<a href="https://download.kstore.space/download/4366/%E7%99%BE%E6%97%A5%E8%AA%93%E5%B8%88.mp4"><img src="https://11busan.csy2022.tk/download.png" /></a>
