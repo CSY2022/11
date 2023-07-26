@@ -10,4 +10,4 @@ next: /guide/teachersaying.md
 
 ### 2. 下载<Badge type="tip" text="343.69MB" vertical="top" />
 
-[![下载](https://11busan.csy2022.tk/dowbload.png "点击下载保存到本地")](https://download.kstore.space/download/4366/studio_video_1687652774767.mp4)
+[![下载](https://11busan.csy2022.tk/download.png "点击下载保存到本地")](https://download.kstore.space/download/4366/studio_video_1687652774767.mp4)
