@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "时光不老，11不散"
-  text: "婺源中学2023届11班毕业纪念网站"
-  tagline: My great project tagline
+  text: ""
+  tagline: 婺源中学2023届11班毕业纪念网站
   actions:
     - theme: brand
       text: Markdown Examples
