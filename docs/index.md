@@ -8,18 +8,18 @@ hero:
   tagline: 婺源中学2023届11班毕业纪念网站
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 朝花夕拾
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 留言板
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 回忆我们的往昔
+    details: 朝花夕拾。也许，在不经意的一瞬间，你能回忆起深埋在心底那一份美好。
+  - title: 坚持“民主建设”
+    details: QQ加我，或者在QQ群里面@我，你可以要求更改或添加任何页面的任何内容！
+  - title: 其他一些“小”事
+    details: 恳请各位不要卸载本站的APP。 APP安装包不到1MB，占内存极少。把它存在手机里，也就当做一份回忆吧。
 ---
 
