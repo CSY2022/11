@@ -6,6 +6,9 @@ hero:
   name: "时光不老，11不散"
   text: ""
   tagline: 婺源中学2023届11班毕业纪念网站
+  image:
+    src: /11.png
+    alt: VitePress
   actions:
     - theme: brand
       text: 朝花夕拾
