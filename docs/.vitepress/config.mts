@@ -59,9 +59,9 @@ export default defineConfig({
       message: 'Released under the WTFPL License.',
       copyright: 'Copyright © 2023-present 陈思源'
     },
-    sidebarMenuLabel: '菜单',
+    sidebarMenuLabel: '目录',
     returnToTopLabel: '回到顶部',
-    darkModeSwitchLabel: '外观',
+    darkModeSwitchLabel: '外观 深/浅 色',
     lightModeSwitchTitle: '切换为浅色模式',
     darkModeSwitchTitle: '切换为深色模式',
   }
