@@ -1,5 +1,6 @@
 # Comment
 
+<ClientOnly>
 <template>
   <Waline :serverURL="https://comments.csy2022.top" :path="window.location.pathname.replace(/\/$/,'')" />
 </template>
@@ -13,3 +14,4 @@ import '@waline/client/style';
 const serverURL = 'https://comments.csy2022.top';
 const path = computed(() => useRoute().path);
 </script>
+</ClientOnly>
