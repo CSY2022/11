@@ -1,5 +1,5 @@
 ---
-next: /teachers.md
+next: /teachers
 ---
 # 序言
 

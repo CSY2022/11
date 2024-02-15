@@ -1,8 +1,8 @@
 ---
-prev: /teachersaying.md
+prev: /teachersaying
 next:
  text: 留言板
- link: https://11busan.csy2022.tk/comments.html
+ link: https://11.csy2022.top/comments.html
 lang: zh-CN
 title: 更多
 ---

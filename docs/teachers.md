@@ -1,6 +1,6 @@
 ---
-prev: /index.html
-next: /students.md
+prev: /index
+next: /students
 ---
 # 11班全体老师名单
 <div style="font-size: 80%">注：排名顺序依照名字首字母，不分前后。</div>
