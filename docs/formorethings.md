@@ -1,5 +1,6 @@
 ---
 prev: 
+  text: '语录'
   link: '/teachersaying'
 next:
  text: 留言板

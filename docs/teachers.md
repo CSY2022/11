@@ -1,7 +1,9 @@
 ---
 prev: 
+  text: '序言'
   link: '/README'
 next: 
+  text: '11班全体学生名单'
   link: '/students'
 ---
 # 11班全体老师名单

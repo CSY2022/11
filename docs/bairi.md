@@ -1,7 +1,9 @@
 ---
 prev: 
+  text: '11班全体学生名单'
   link: '/students'
 next: 
+  text: '合唱（团歌+少年）'
   link: '/hechang'
 ---
 # 百日誓师大会

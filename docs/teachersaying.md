@@ -1,7 +1,9 @@
 ---
 prev: 
+  text: '合唱（团歌+少年）
   link: '/hechang'
 next: 
+  text: '更多'
   link: '/formorethings'
 lang: zh-CN
 title: 语录

@@ -1,5 +1,6 @@
 ---
 next: 
+  text: '11班全体老师名单'
   link: '/teachers'
 ---
 # 序言

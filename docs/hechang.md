@@ -1,7 +1,9 @@
 ---
 prev: 
+  text: '百日誓师大会'
   link: '/bairi'
-next: 
+next:
+  text: '语录'
   link: '/teachersaying'
 ---
 # 合唱 (团歌+少年)

@@ -1,7 +1,9 @@
 ---
 prev: 
+  text: '11班全体老师名单'
   link: '/teachers'
 next: 
+  text: '百日誓师大会'
   link: '/bairi'
 ---
 # 11班全体学生名单
