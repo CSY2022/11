@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>留言板</title>
     <link rel="icon" href="/11.png">
-    <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
     <style>
      @font-face {
      font-family: InterVariable;
@@ -23,6 +22,7 @@
     background-color: color-mix(in srgb, Canvas, CanvasText 2.5%);
     color: color-mix(in srgb, CanvasText, Canvas 15%);
     </style>
+    <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
     <script type="module">
     import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
     const locale = {nick: '昵称（填写QQ号有惊喜）',mail: '邮箱（可不填）',link: '网址（可不填）',admin: '站长',reactionTitle: '描述一下你的心情:',comment: '留言',placeholder: '以手写心，畅所欲言。',sofa: '来留言吧～',submit: '留言',login: '登录（发留言不用登录）',};
