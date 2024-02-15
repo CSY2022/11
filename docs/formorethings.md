@@ -23,7 +23,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://avatars.githubusercontent.com/u/103822280?v=4',
+    avatar: 'http://q.qlogo.cn/headimg_dl?dst_uin=1703862265&spec=640&img_type=jpg',
     name: '陈思源',
     title: '创始人',
     links: [

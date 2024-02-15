@@ -1,6 +1,6 @@
 ---
 prev: 
-  text: '合唱（团歌+少年）
+  text: '合唱（团歌+少年）'
   link: '/hechang'
 next: 
   text: '更多'

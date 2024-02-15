@@ -9,7 +9,17 @@ export default defineConfig({
     logo: '/11.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '朝花夕拾', link: '/README' },
+{
+      text: '朝花夕拾',
+        items: [
+          { text: '序言', link: '/README' },
+          { text: '11班全体老师名单', link: '/teachers' },
+          { text: '11班全体学生名单', link: '/students' },
+          { text: '百日誓师大会', link: '/bairi' },
+          { text: '合唱（团歌+少年）', link: '/hechang' },  
+          { text: '语录', link: '/teachersaying' },
+          { text: '更多', link: '/formorethings' },
+          ]  },                                   
       { text: '留言板', link: 'https://11.csy2022.top/comments.html' },
     ],
 
@@ -45,5 +55,8 @@ export default defineConfig({
     },
     sidebarMenuLabel: '菜单',
     returnToTopLabel: '回到顶部',
+    darkModeSwitchLabel: '外观',
+    lightModeSwitchTitle: '切换为浅色模式',
+    darkModeSwitchTitle: '切换为深色模式',
   }
 })
