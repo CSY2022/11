@@ -65,6 +65,9 @@ export default defineConfig({
     darkModeSwitchLabel: '外观 深/浅 色',
     lightModeSwitchTitle: '切换为浅色模式',
     darkModeSwitchTitle: '切换为深色模式',
-    outline: 3,
+    outline: {
+    level: 3,
+    label: '快速跳转'
+    },
   }
 })
