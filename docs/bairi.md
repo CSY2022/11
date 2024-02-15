@@ -1,6 +1,8 @@
 ---
-prev: '/students'
-next: '/hechang'
+prev: 
+  link: '/students'
+next: 
+  link: '/hechang'
 ---
 # 百日誓师大会
 

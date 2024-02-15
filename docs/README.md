@@ -1,5 +1,6 @@
 ---
-next: '/teachers'
+next: 
+  link: '/teachers'
 ---
 # 序言
 

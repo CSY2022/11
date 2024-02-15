@@ -1,6 +1,8 @@
 ---
-prev: '/hechang'
-next: '/formorethings'
+prev: 
+  link: '/hechang'
+next: 
+  link: '/formorethings'
 lang: zh-CN
 title: 语录
 ---

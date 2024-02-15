@@ -1,6 +1,8 @@
 ---
-prev: '/teachers'
-next: '/bairi'
+prev: 
+  link: '/teachers'
+next: 
+  link: '/bairi'
 ---
 # 11班全体学生名单
 <div style="font-size: 80%">注：排名顺序依照名字首字母，不分前后。</div>
