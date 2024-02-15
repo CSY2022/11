@@ -29,13 +29,12 @@ export default defineConfig({
         },
         link: 'https://qm.qq.com/cgi-bin/qm/qr?k=2GmqPqJLn0f70VgCNgm845hGRbmvyndF',
         ariaLabel: 'qq'
-      },
+      },],
       footer: {
       message: 'Released under the WTFPL License.',
       copyright: 'Copyright © 2023-present 陈思源'
     },
     sidebarMenuLabel: '菜单',
     returnToTopLabel: '回到顶部',
-    ]
   }
 })
