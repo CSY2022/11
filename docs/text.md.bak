@@ -28,6 +28,9 @@
     emoji: ['https://npm.onmicrosoft.cn/@waline/emojis@1.1.0/bilibili','https://npm.onmicrosoft.cn/@waline/emojis@1.1.0/qq',],})
 </script>
 </head>
+<body>
 ::: raw
 <div id="waline" style="max-width: 800px;margin: 0 auto;"></div>
 :::
+</body>
+</html>
