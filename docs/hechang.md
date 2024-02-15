@@ -1,6 +1,6 @@
 ---
-prev: /bairi
-next: /teachersaying
+prev: '/bairi'
+next: '/teachersaying'
 ---
 # 合唱 (团歌+少年)
 

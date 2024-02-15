@@ -1,5 +1,5 @@
 ---
-prev: /teachersaying
+prev: '/teachersaying'
 next:
  text: 留言板
  link: https://11.csy2022.top/comments.html

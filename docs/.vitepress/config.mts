@@ -6,6 +6,7 @@ export default defineConfig({
   description: "婺源中学2023届11班毕业纪念网站",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/11.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '朝花夕拾', link: '/README' },
@@ -13,12 +14,13 @@ export default defineConfig({
     ],
 
     sidebar: [
-      {
-        text: '朝花夕拾',
-        text: '留言板',
-      }
+      { text: '朝花夕拾', link: '/README' },
+      { text: '留言板', link: 'https://11.csy2022.top/comments.html' },
     ],
-
+    docFooter: {
+      prev: '上一页',
+      next: '下一页',
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/CSY2022/' },
       {
@@ -27,7 +29,13 @@ export default defineConfig({
         },
         link: 'https://qm.qq.com/cgi-bin/qm/qr?k=2GmqPqJLn0f70VgCNgm845hGRbmvyndF',
         ariaLabel: 'qq'
-      }
+      },
+      footer: {
+      message: 'Released under the WTFPL License.',
+      copyright: 'Copyright © 2023-present 陈思源'
+    },
+    sidebarMenuLabel: '菜单',
+    returnToTopLabel: '回到顶部',
     ]
   }
 })
