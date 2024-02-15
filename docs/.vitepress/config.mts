@@ -13,7 +13,7 @@ export default defineConfig({
       { text: '留言板', link: 'https://11.csy2022.top/comments.html' },
     ],
 
-    sidebar: [
+    sidebar: [{
       text: '朝花夕拾',
         items: [
           { text: '序言', link: '/README' },
@@ -22,7 +22,7 @@ export default defineConfig({
           { text: '百日誓师大会', link: '/bairi' },
           { text: '合唱（团歌+少年）', link: '/hechang' },  
           { text: '语录', link: '/teachersaying' },
-          { text: '更多', link: '/formorethings' },                                     
+          { text: '更多', link: '/formorethings' },  },                                   
       { text: '留言板', link: 'https://11.csy2022.top/comments.html' },
     ],
     docFooter: {
