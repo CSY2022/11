@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>留言板</title>
     <link rel="icon" href="/11.png">
-    <link rel="stylesheet" href="https://11.csy2022.top/waline.css">
+    <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
     <style>
      @font-face {
      font-family: InterVariable;
