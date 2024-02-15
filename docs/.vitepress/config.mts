@@ -7,8 +7,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '朝花夕拾', link: '/' },
-      { text: '留言板', link: '/markdown-examples' }
+      { text: '首页', link: '/' },
+      { text: '朝花夕拾', link: '/README' },
+      { text: '留言板', link: '/comments.html' },
     ],
 
     sidebar: [
