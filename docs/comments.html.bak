@@ -7,7 +7,7 @@
     <link rel="icon" href="/11.png">
     <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
 </head>
-
+<iframe>
 <body><br>
     <div style="text-align: center">
         <h1 style="color: seagreen;">留言板</h1>
@@ -31,7 +31,6 @@
     locale,
     emoji: ['https://npm.onmicrosoft.cn/@waline/emojis@1.1.0/bilibili','https://npm.onmicrosoft.cn/@waline/emojis@1.1.0/qq',],})
 </script>
-<iframe>
     <div id="waline" style="max-width: 800px;margin: 0 auto;"></div>
 </iframe>
 </body>
