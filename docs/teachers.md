@@ -1,6 +1,6 @@
 ---
 prev: 
-  link: '/index'
+  link: '/README'
 next: 
   link: '/students'
 ---
