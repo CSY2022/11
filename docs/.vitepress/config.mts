@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '朝花夕拾', link: '/README' },
-      { text: '留言板', link: '/comments.html' },
+      { text: '留言板', link: 'https://11.csy2022.top/comments.html' },
     ],
 
     sidebar: [
