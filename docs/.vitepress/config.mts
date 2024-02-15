@@ -15,10 +15,6 @@ export default defineConfig({
     sidebar: [
       {
         text: '朝花夕拾',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-        ],
         text: '留言板',
       }
     ],

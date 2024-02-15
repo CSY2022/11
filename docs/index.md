@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 朝花夕拾
-      link: /markdown-examples
+      link: /README
     - theme: alt
       text: 留言板
-      link: /api-examples
+      link: https://11.csy2022.top/comments.html
 
 features:
   - title: 回忆我们的往昔

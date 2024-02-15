@@ -1,5 +1,5 @@
 ---
-next: /guide/teachers.md
+next: /teachers.md
 ---
 # 序言
 

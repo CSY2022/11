@@ -1,6 +1,6 @@
 ---
-prev: /guide/bairi.md
-next: /guide/teachersaying.md
+prev: /bairi.md
+next: /teachersaying.md
 ---
 # 合唱 (团歌+少年)
 

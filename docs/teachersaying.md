@@ -1,6 +1,6 @@
 ---
-prev: /guide/hechang.md
-next: /guide/formorethings.md
+prev: /hechang.md
+next: /formorethings.md
 lang: zh-CN
 title: 语录
 ---

@@ -1,6 +1,6 @@
 ---
-prev: /guide/students.md
-next: /guide/hechang.md
+prev: /students.md
+next: /hechang.md
 ---
 # 百日誓师大会
 

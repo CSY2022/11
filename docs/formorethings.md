@@ -1,5 +1,5 @@
 ---
-prev: /guide/teachersaying.md
+prev: /teachersaying.md
 next:
  text: 留言板
  link: https://11busan.csy2022.tk/comments.html
