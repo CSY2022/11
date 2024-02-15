@@ -18,7 +18,7 @@ export default defineConfig({
         items: [
           { text: '序言', link: '/README' },
           { text: '11班全体老师名单', link: '/teachers' },
-          { text: '11班全体学生名单', link: '/ students' },
+          { text: '11班全体学生名单', link: '/students' },
           { text: '百日誓师大会', link: '/bairi' },
           { text: '合唱（团歌+少年）', link: '/hechang' },  
           { text: '语录', link: '/teachersaying' },
