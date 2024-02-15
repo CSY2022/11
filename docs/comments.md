@@ -14,8 +14,8 @@
     </div>
     <h5><br></h5>
     <h3>以手写心，畅所欲言。</h3><br>
-    <h3><strong>Tips:</strong><br></h3>1. <strong style="color: seagreen;">文明</strong>用语，以礼待人。<br><br>2. 留言时<strong style="color: seagreen;">不用填 邮箱 网址 </strong>这两项，<strong style="color: seagreen;">也不用登录</strong>，写完后点留言就可以了。<br><br>3. <strong style="color: seagreen;">留言板由 Waline 评论系统支持</strong>。如果加载较慢，请耐心等待。<br><br>4.
-    悄悄告诉你: 昵称不填可以 <strong style="color: seagreen;">匿名</strong>，填写QQ号可以 <strong style="color: seagreen;">自动获取你的QQ头像</strong>。<br><br>
+    <h3><strong>Tips:</strong><br>
+    </h3>1. <strong style="color: seagreen;">文明</strong>用语，以礼待人。<br><br>2. 留言时<strong style="color: seagreen;">不用填 邮箱 网址 </strong>这两项，<strong style="color: seagreen;">也不用登录</strong>，写完后点留言就可以了。<br><br>3. <strong style="color: seagreen;">留言板由 Waline 评论系统支持</strong>。如果加载较慢，请耐心等待。<br><br>4. 悄悄告诉你: 昵称不填可以 <strong style="color: seagreen;">匿名</strong>，填写QQ号可以 <strong style="color: seagreen;">自动获取你的QQ头像</strong>。<br><br>
     
 <script type="module">
     import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
@@ -31,7 +31,9 @@
     locale,
     emoji: ['https://npm.onmicrosoft.cn/@waline/emojis@1.1.0/bilibili','https://npm.onmicrosoft.cn/@waline/emojis@1.1.0/qq',],})
 </script>
+<iframe>
     <div id="waline" style="max-width: 800px;margin: 0 auto;"></div>
+</iframe>
 </body>
 
 </html>
