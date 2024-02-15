@@ -13,9 +13,6 @@
   src:
     url("/font.woff2") format("woff2"),
 },
-    color-scheme: light dark;
-    background-color: color-mix(in srgb, Canvas, CanvasText 2.5%);
-    color: color-mix(in srgb, CanvasText, Canvas 15%);
     </style>
     <link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css">
     <script type="module">
