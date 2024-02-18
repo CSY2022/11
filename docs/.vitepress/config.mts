@@ -7,7 +7,7 @@ export default defineConfig({
   description: "婺源中学2023届11班毕业纪念网站",
   markdown: {
     image: {
-      lazyLoading: true
+      lazyLoading: false
     },
     },
   themeConfig: {
