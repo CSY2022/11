@@ -25,7 +25,5 @@ head:
     lang: "zh-CN",
     locale,
     emoji: ['https://npm.onmicrosoft.cn/@waline/emojis@1.2.0/bilibili','https://npm.onmicrosoft.cn/@waline/emojis@1.2.0/bmoji','https://npm.onmicrosoft.cn/@waline/emojis@1.2.0/qq','https://npm.onmicrosoft.cn/@waline/emojis@1.2.0/weibo','https://npm.onmicrosoft.cn/@waline/emojis@1.2.0/tieba'],}),
+    waline.update();
 </script>
-    <script>
-        waline.update();
-    </script>
