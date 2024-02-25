@@ -1038,7 +1038,7 @@
     background: none;
     color: #ccc;
     font-size: 1em;
-    font-family: Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace;
+    font-family: system-ui;
     text-align: left;
     white-space: pre;
     word-spacing: normal;
