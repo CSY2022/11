@@ -1,5 +1,10 @@
-<br>
-    <div style="text-align: center">
+---
+head:
+  - - link
+    - name: stylesheet
+      content: https://11.csy2022.top/waline.css
+---
+<div style="text-align: center">
         <h1 style="color: #5672CD;">留言板</h1>
     </div>
     <h5><br></h5>
