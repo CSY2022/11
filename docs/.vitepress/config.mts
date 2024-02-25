@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   title: "时光不老，11不散",
   lang: 'zh_CN',
   description: "婺源中学2023届11班毕业纪念网站",
